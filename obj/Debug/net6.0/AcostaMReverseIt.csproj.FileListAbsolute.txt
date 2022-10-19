@@ -1,0 +1,15 @@
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/bin/Debug/net6.0/AcostaMReverseIt
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/bin/Debug/net6.0/AcostaMReverseIt.deps.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/bin/Debug/net6.0/AcostaMReverseIt.runtimeconfig.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/bin/Debug/net6.0/AcostaMReverseIt.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/bin/Debug/net6.0/AcostaMReverseIt.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/obj/Debug/net6.0/AcostaMReverseIt.csproj.AssemblyReference.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/obj/Debug/net6.0/AcostaMReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/obj/Debug/net6.0/AcostaMReverseIt.AssemblyInfoInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/obj/Debug/net6.0/AcostaMReverseIt.AssemblyInfo.cs
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/obj/Debug/net6.0/AcostaMReverseIt.csproj.CoreCompileInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/obj/Debug/net6.0/AcostaMReverseIt.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/obj/Debug/net6.0/refint/AcostaMReverseIt.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/obj/Debug/net6.0/AcostaMReverseIt.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/obj/Debug/net6.0/AcostaMReverseIt.genruntimeconfig.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMReverseIt/obj/Debug/net6.0/ref/AcostaMReverseIt.dll
